@@ -46,8 +46,8 @@ We collect Usage Data automatically through the App as you use it. This data is 
 
 We share Usage Data with the following third parties:
 
-  * **Mixpanel:** (Include a link to Mixpanel's privacy policy: [https://mixpanel.com/legal/privacy-policy/](https://www.google.com/url?sa=E&source=gmail&q=https://mixpanel.com/legal/privacy-policy/)) We use Mixpanel for analytics purposes, as described above.
-  * **Amplitude:** (Include a link to Amplitude's privacy policy: [https://amplitude.com/privacy](https://www.google.com/url?sa=E&source=gmail&q=https://amplitude.com/privacy)) We use Amplitude for analytics purposes, as described above.
+  * **Mixpanel:** We use Mixpanel for analytics purposes, as described above. You can review Mixpanel's privacy policy here: [https://mixpanel.com/legal/privacy-policy](https://mixpanel.com/legal/privacy-policy).
+  * **Amplitude:** We use Amplitude for analytics purposes, as described above. You can review Amplitude's privacy policy here: [https://amplitude.com/privacy](https://amplitude.com/privacy).
 
 We do not share any information with any other third parties, including advertisers, payment processors, or social media platforms.
 
