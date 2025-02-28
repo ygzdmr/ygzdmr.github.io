@@ -33,7 +33,7 @@ The App, including its design, features, functionality, and underlying technolog
 **4. User Data and Privacy**
 
 *   **No Personal Data Collection:** Ellie is designed to respect your privacy. We *do not* collect any personally identifiable information (as detailed in our Privacy Policy).
-*   **Usage Data:** We collect anonymous Usage Data to improve the App, as described in our Privacy Policy ([link to your Privacy Policy, e.g., "[www.ellieapp.com/privacy](https://www.google.com/search?q=https://www.ellieapp.com/privacy)"]).  Your use of the App constitutes your consent to this data collection.
+*   **Usage Data:** We collect anonymous Usage Data to improve the App, as described in our [Privacy Policy](http://yagizdemir.me/ellie/privacy_policy).  Your use of the App constitutes your consent to this data collection.
 *   **Third-Party Services:** We use third-party analytics services (Mixpanel and Amplitude) to collect Usage Data.  See our Privacy Policy for details and links to their privacy policies.
 
 **5. Disclaimer of Warranties**
