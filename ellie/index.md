@@ -123,7 +123,7 @@
 
   <div class="footer">
       <div class="terms">
-        <a href="{{site.baseurl}}/terms.md">Terms of Use</a> - <a href="{{site.baseurl}}/privacy.md">Privacy Policy</a>
+        <a href="{{site.baseurl}}/terms">Terms of Use</a> - <a href="{{site.baseurl}}/privacy">Privacy Policy</a>
       </div>
     <p>&copy; 2023 Your Name/Company. All rights reserved.</p>
   </div>
