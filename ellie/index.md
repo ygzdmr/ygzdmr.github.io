@@ -87,7 +87,7 @@
   </div>
 
   <div class="screenshot">
-    <img src="{{ site.baseurl }}/images/screenshot.png" alt="Ellie App Screenshot">
+    <img src="{{ site.baseurl }}/ellie/images/screenshot.png" alt="Ellie App Screenshot">
   </div>
 
   <div class="features">
@@ -123,7 +123,7 @@
 
   <div class="footer">
       <div class="terms">
-        <a href="{{site.baseurl}}/terms">Terms of Use</a> - <a href="{{site.baseurl}}/privacy">Privacy Policy</a>
+        <a href="{{site.baseurl}}/ellie/terms">Terms of Use</a> - <a href="{{site.baseurl}}/ellie/privacy">Privacy Policy</a>
       </div>
     <p>&copy; 2023 Your Name/Company. All rights reserved.</p>
   </div>
