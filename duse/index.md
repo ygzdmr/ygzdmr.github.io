@@ -180,12 +180,12 @@
 
 <div class="container">
   <div class="header">
-    <h1>Ellie: Simple Habit Tracking</h1>
+    <h1>Duse: Simple Habit Tracking</h1>
     <p>Build lasting habits, without the complexity.</p>
   </div>
 
   <div class="screenshot">
-    <img src="{{ site.baseurl }}/ellie/images/screenshot.png" alt="Ellie App Screenshot">
+    <img src="{{ site.baseurl }}/Duse/images/screenshot.png" alt="Duse App Screenshot">
   </div>
 
   <div class="features">
@@ -221,7 +221,7 @@
 
   <div class="footer">
     <div class="terms">
-      <a href="{{site.baseurl}}/ellie/terms">Terms of Use</a> - <a href="{{site.baseurl}}/ellie/privacy">Privacy Policy</a>
+      <a href="{{site.baseurl}}/Duse/terms">Terms of Use</a> - <a href="{{site.baseurl}}/Duse/privacy">Privacy Policy</a>
     </div>
     <p>&copy; 2025 Habib Yağız Demir. All rights reserved.</p>
   </div>
