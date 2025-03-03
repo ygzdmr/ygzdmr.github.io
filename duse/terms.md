@@ -1,8 +1,8 @@
-**Ellie Habit Tracker Terms of Use**
+**Duse Habit Tracker Terms of Use**
 
 **Last Updated:** February 28, 2025
 
-These Terms of Use ("Terms") govern your access to and use of the Ellie habit tracker mobile application (the "App") provided by Habib Yağız Demir ("we," "us," or "our"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
+These Terms of Use ("Terms") govern your access to and use of the Duse habit tracker mobile application (the "App") provided by Habib Yağız Demir ("we," "us," or "our"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
 
 **1. License Grant**
 
@@ -28,12 +28,12 @@ You agree *not* to:
 
 **3. Intellectual Property**
 
-The App, including its design, features, functionality, and underlying technology, is owned by us or our licensors and is protected by copyright, trademark, and other intellectual property laws.  You acknowledge that you do not acquire any ownership rights in the App by using it. The name "Ellie" and any associated logos are our trademarks.
+The App, including its design, features, functionality, and underlying technology, is owned by us or our licensors and is protected by copyright, trademark, and other intellectual property laws.  You acknowledge that you do not acquire any ownership rights in the App by using it. The name "Duse" and any associated logos are our trademarks.
 
 **4. User Data and Privacy**
 
-*   **No Personal Data Collection:** Ellie is designed to respect your privacy. We *do not* collect any personally identifiable information (as detailed in our Privacy Policy).
-*   **Usage Data:** We collect anonymous Usage Data to improve the App, as described in our [Privacy Policy](http://yagizdemir.me/ellie/privacy).  Your use of the App constitutes your consent to this data collection.
+*   **No Personal Data Collection:** Duse is designed to respect your privacy. We *do not* collect any personally identifiable information (as detailed in our Privacy Policy).
+*   **Usage Data:** We collect anonymous Usage Data to improve the App, as described in our [Privacy Policy](http://yagizdemir.me/Duse/privacy).  Your use of the App constitutes your consent to this data collection.
 *   **Third-Party Services:** We use third-party analytics services (Mixpanel and Amplitude) to collect Usage Data.  See our Privacy Policy for details and links to their privacy policies.
 
 **5. Disclaimer of Warranties**
