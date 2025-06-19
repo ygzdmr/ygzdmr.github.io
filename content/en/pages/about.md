@@ -1,6 +1,7 @@
 ---
 title: About
 description: 'About Yağız Demir'
+date: 2023-02-07
 author: Yağız Demir
 ---
 
