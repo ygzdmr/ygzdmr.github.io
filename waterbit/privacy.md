@@ -1,8 +1,8 @@
-# Karaf Water Reminder Privacy Policy
+# WaterBit Water Reminder Privacy Policy
 
 **Last Updated:** May 22, 2025
 
-This Privacy Policy describes how Karaf ("we," "us," or "our") collects, uses, and shares information in connection with your use of the Karaf water reminder mobile application (the "App"). We are committed to protecting your privacy. Importantly, Karaf is designed to respect your privacy, **and we do not collect any personally identifiable information**.
+This Privacy Policy describes how WaterBit ("we," "us," or "our") collects, uses, and shares information in connection with your use of the WaterBit water reminder mobile application (the "App"). We are committed to protecting your privacy. Importantly, WaterBit is designed to respect your privacy, **and we do not collect any personally identifiable information**.
 
 ---
 
@@ -11,7 +11,7 @@ This Privacy Policy describes how Karaf ("we," "us," or "our") collects, uses, a
 We **do not** collect any of the following:
 
 * **No Personal Identifiers:** We do not collect your name, email address, phone code, postal address, or any other information that could directly identify you.
-* **No Account Creation:** You do not need to create an account to use Karaf.
+* **No Account Creation:** You do not need to create an account to use WaterBit.
 * **No Location Data:** We do not collect your device's location.
 * **No User Inputted Content:** We do not collect the content of user water intake logs or reminder settings.
 
@@ -65,7 +65,7 @@ We do not share any information with any other third parties, including advertis
 
 ## 6. Your Rights Under GDPR
 
-While Karaf does not collect personal data, we respect the principles of the GDPR. To the extent that any data we collect could be considered personal data under GDPR, you have the following rights:
+While WaterBit does not collect personal data, we respect the principles of the GDPR. To the extent that any data we collect could be considered personal data under GDPR, you have the following rights:
 
 * **Right to Access:** You have the right to request information about the data we collect about you.
 * **Right to Rectification:** If any data we hold about you is inaccurate, you have the right to request correction.
@@ -88,7 +88,7 @@ We will respond to your request within a reasonable timeframe, and in accordance
 
 ## 8. Cookies and Similar Technologies
 
-Karaf **does not** directly use cookies within the app itself. However, our third-party analytics providers (Mixpanel and Amplitude) may use cookies or similar technologies within their SDKs to collect Usage Data. Please refer to their respective privacy policies for details on their use of cookies.
+WaterBit **does not** directly use cookies within the app itself. However, our third-party analytics providers (Mixpanel and Amplitude) may use cookies or similar technologies within their SDKs to collect Usage Data. Please refer to their respective privacy policies for details on their use of cookies.
 
 ---
 
