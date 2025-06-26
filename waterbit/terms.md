@@ -1,8 +1,8 @@
-**Karaf Water Reminder Terms of Use**
+**WaterBit Terms of Use**
 
 **Last Updated:** February 28, 2025
 
-These Terms of Use ("Terms") govern your access to and use of the Karaf water reminder mobile application (the "App") provided by Habib Yağız Demir ("we," "us," or "our"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
+These Terms of Use ("Terms") govern your access to and use of the WaterBit water reminder mobile application (the "App") provided by Habib Yağız Demir ("we," "us," or "our"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
 
 **1. License Grant**
 
@@ -28,12 +28,12 @@ You agree *not* to:
 
 **3. Intellectual Property**
 
-The App, including its design, features, functionality, and underlying technology, is owned by us or our licensors and is protected by copyright, trademark, and other intellectual property laws. You acknowledge that you do not acquire any ownership rights in the App by using it. The name "Karaf" and any associated logos are our trademarks.
+The App, including its design, features, functionality, and underlying technology, is owned by us or our licensors and is protected by copyright, trademark, and other intellectual property laws. You acknowledge that you do not acquire any ownership rights in the App by using it. The name "WaterBit" and any associated logos are our trademarks.
 
 **4. User Data and Privacy**
 
-* **No Personal Data Collection (Beyond Reminders):** Karaf is designed to respect your privacy. We *do not* collect any personally identifiable information beyond what is necessary for the core functionality of setting and receiving water reminders, (as detailed in our Privacy Policy). For example, if you set custom reminder times or goals, this information is stored locally on your device or, if cloud sync is offered and enabled by you, on secure servers solely for the purpose of providing the service.
-* **Usage Data:** We may collect anonymous Usage Data to improve the App, as described in our [Privacy Policy](http://yagizdemir.me/Karaf/privacy). Your use of the App constitutes your consent to this data collection.
+* **No Personal Data Collection (Beyond Reminders):** WaterBit is designed to respect your privacy. We *do not* collect any personally identifiable information beyond what is necessary for the core functionality of setting and receiving water reminders, (as detailed in our Privacy Policy). For example, if you set custom reminder times or goals, this information is stored locally on your device or, if cloud sync is offered and enabled by you, on secure servers solely for the purpose of providing the service.
+* **Usage Data:** We may collect anonymous Usage Data to improve the App, as described in our [Privacy Policy](http://yagizdemir.me/WaterBit/privacy). Your use of the App constitutes your consent to this data collection.
 * **Third-Party Services:** We may use third-party analytics services (e.g., Mixpanel and Amplitude, or others as specified in the Privacy Policy) to collect Usage Data. See our Privacy Policy for details and links to their privacy policies.
 
 **5. Disclaimer of Warranties**
